@@ -1,0 +1,11 @@
+C:\Users\sajib\source\repos\Task Manager\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\sajib\source\repos\Task Manager\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\sajib\source\repos\Task Manager\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\sajib\source\repos\Task Manager\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\sajib\source\repos\Task Manager\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache

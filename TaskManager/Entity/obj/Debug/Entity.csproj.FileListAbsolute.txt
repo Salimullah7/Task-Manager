@@ -1,0 +1,11 @@
+C:\Users\sajib\source\repos\Task Manager\Entity\bin\Debug\Entity.dll
+C:\Users\sajib\source\repos\Task Manager\Entity\bin\Debug\Entity.pdb
+C:\Users\sajib\source\repos\Task Manager\Entity\obj\Debug\Entity.dll
+C:\Users\sajib\source\repos\Task Manager\Entity\obj\Debug\Entity.pdb
+C:\Users\sajib\source\repos\Task Manager\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Entity\bin\Debug\Entity.dll
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Entity\bin\Debug\Entity.pdb
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Entity\obj\Debug\Entity.dll
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Entity\obj\Debug\Entity.pdb
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Entity\obj\Debug\Entity.csprojAssemblyReference.cache

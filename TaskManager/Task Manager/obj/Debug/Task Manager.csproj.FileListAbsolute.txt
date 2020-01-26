@@ -1,0 +1,16 @@
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.HomePage.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.csproj.GenerateResource.cache
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.AddTaskInfo.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.AddTaskView.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.BeforeTaskNotification.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.Panel_For_Work.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.AddTasksView.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.ProjectUserControl.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.csprojAssemblyReference.cache
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.CategoriesView.resources

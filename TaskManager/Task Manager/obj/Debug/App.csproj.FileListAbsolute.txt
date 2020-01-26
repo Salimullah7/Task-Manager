@@ -1,0 +1,103 @@
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Entity.dll
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\EPPlus.dll
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\ExcelDataReader.dll
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Repositories.dll
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Services.dll
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Interfaces.dll
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Entity.pdb
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Repositories.pdb
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Services.pdb
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\EPPlus.xml
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\ExcelDataReader.pdb
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\ExcelDataReader.xml
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Interfaces.pdb
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\App.csproj.ResolveComReference.cache
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.AddTaskInfo.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.AddTaskInfoInBig.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.AddTaskView.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.CategoriesView.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.ContentUserControl.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.CustomNoficationForm.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.CustomRepeatDate.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.EditShareTaskForm.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.HomePage2.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.LogIn.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.Only_Test_Purpose.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.ProjectUserControl.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.ShareCategroyTasks.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.ShowCategoryListUserControl.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.SignUp.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.UpdateAddTaskInfo.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.UserControlForOnlyTestPurpose.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\App.csproj.CopyComplete
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.CustomNotificationPopUp.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.SearchForm.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.UserInfoForm.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task_Manager.GraphForm.resources
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.exe.manifest
+C:\Users\sajib\source\repos\Task Manager\Task Manager\bin\Debug\Task Manager.application
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.exe.manifest
+C:\Users\sajib\source\repos\Task Manager\Task Manager\obj\Debug\Task Manager.application
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Task Manager.exe.config
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Task Manager.exe.manifest
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Task Manager.application
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Task Manager.exe
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Task Manager.pdb
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Entity.dll
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\EPPlus.dll
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\ExcelDataReader.dll
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Repositories.dll
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Services.dll
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Interfaces.dll
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Entity.pdb
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Repositories.pdb
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Services.pdb
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\EPPlus.xml
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\ExcelDataReader.pdb
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\ExcelDataReader.xml
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\bin\Debug\Interfaces.pdb
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\App.csproj.ResolveComReference.cache
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.AddTaskInfo.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.AddTaskInfoInBig.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.AddTaskView.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.CategoriesView.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.ContentUserControl.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.CustomNoficationForm.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.CustomNotificationPopUp.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.CustomRepeatDate.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.EditShareTaskForm.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.GraphForm.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.HomePage2.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.LogIn.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.Only_Test_Purpose.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.ProjectUserControl.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.Properties.Resources.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.SearchForm.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.ShareCategroyTasks.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.ShowCategoryListUserControl.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.SignUp.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.UpdateAddTaskInfo.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.UserControlForOnlyTestPurpose.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task_Manager.UserInfoForm.resources
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task Manager.exe.manifest
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task Manager.application
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\App.csproj.CopyComplete
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task Manager.exe
+C:\Users\Shuvra\Downloads\Compressed\Task Manager\Task Manager\obj\Debug\Task Manager.pdb
